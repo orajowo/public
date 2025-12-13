@@ -1,21 +1,26 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/331f55b0ccf9ea1f6b5d3882f51e3cc4-thumbnail.jpg" group-title="PPVLand - NFL Action",Cleveland Browns vs. Chicago Bears
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/530892ab4b0c7aec2617b333a6a9b56c-thumbnail.jpg" group-title="PPVLand - College Football",Army Black Knights vs. Navy Midshipmen
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Darts",World Darts Championship
+https://gg.poocloud.in/CBS/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Gladbach vs. Wolfsburg
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/darts/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4b5d4fb12fe9e9cfea6211c5dacea8cf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Milan vs. Sassuolo
+https://gg.poocloud.in/bundesliga_bmg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Udinese vs. Napoli
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_mil/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/67224d9a7e9c4021ad8b22dc0cd02144-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rayo Vallecano vs. Real Betis
+https://gg.poocloud.in/seriea_udi/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/eaad5658437afb9300da96bc62c52e7e-thumbnail.jpg" group-title="PPVLand - NHL Action",Carolina Hurricanes vs. Philadelphia Flyers
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_ray/index.m3u8
+https://gg.poocloud.in/philadelphiaflyers/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/404d07b945362ae5eed0180ea3a4df40-thumbnail.jpg" group-title="PPVLand - NHL Action",Vegas Golden Knights vs. Columbus Blue Jackets
+#EXTVLCOPT:http-origin=https://ppv.to
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://gg.poocloud.in/columbusbluejackets/index.m3u8
