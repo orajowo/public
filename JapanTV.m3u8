@@ -289,3 +289,5 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
 https://nl.utako.moe/golf_network/index.m3u8
 #EXTINF:-1 group-title="JapanTV" tvg-id="the_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="JapanTV" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
